@@ -29,7 +29,7 @@ Building on the concept of managing collections from Module 2, design a generic 
 
 ### Assignment Details:
 
-#### InventoryItem Concept:InventoryItem Concept:
+#### InventoryItem Concept
 
 Define a concept (e.g., a simple struct or class) for an InventoryItem that has at least an id (e.g., std::string or int) and a name.
 
