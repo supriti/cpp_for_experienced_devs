@@ -1,0 +1,6 @@
+Hello, world!
+This is the first line.
+This is the second line.
+A common line.
+Another line in file1.
+End of file1.

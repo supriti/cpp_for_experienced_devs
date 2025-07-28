@@ -1,0 +1,5 @@
+Hello, world!
+This is a modified first line.
+A common line.
+A new line in file2.
+End of file2, but changed.
